@@ -12,7 +12,7 @@ pip install opencv-python numpy
 ## How to Run
 ### Clone the repository or download the files.
 ```bash
-git clone
+git clone https://github.com/An1rud/Face-mask-Detection.git
 ```
 - Ensure that the haarcascade files for face, eyes, mouth, and upper body are in the data/xml/ directory.
 - You can download these cascades from OpenCV GitHub repository.
