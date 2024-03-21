@@ -18,7 +18,7 @@ git clone https://github.com/An1rud/Face-mask-Detection.git
 - You can download these cascades from OpenCV GitHub repository.
 ### Run the mask_detection.py script:
 ```bash
-python mask_detection.py
+python app.py
 ```
 - A video window will open showing the live webcam feed with mask detection results.
 - White rectangles indicate detected faces.
